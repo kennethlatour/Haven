@@ -1,0 +1,2 @@
+class HavensController < ApplicationController
+end
